@@ -1,0 +1,52 @@
+body {
+  background-color: lightblue;
+}
+
+h1, h2{
+  text-align: center;
+  font-family: sans-serif; 
+}
+
+h2 {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 20px 0;
+}
+
+table {
+  border: 2px solid black;
+  width: 700px;
+  margin: auto;
+}
+
+th, td {
+  border-bottom: 1px solid green;
+  
+  font-family: Arial;
+  padding: 5px;
+}
+
+th {
+ text-align: center;
+ background-color: lightslategray;
+ color: white;
+}
+
+.css-table {
+  margin-bottom: 50px;
+}
+
+.tag, .property {
+  background-color: burlywood;
+  font-family: monospace;
+  font-size: 14px;
+  text-align: center;
+}
+
+.name {
+  text-align: center;
+}
+
+.name, .description, .default-display {
+  background-color: cadetblue;
+}
